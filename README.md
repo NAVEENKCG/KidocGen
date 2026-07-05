@@ -1,4 +1,4 @@
-MAKE USE OF VERSION-4
+MAKE USE OF VERSION-6
 # KiDocGen
 
 **KiDocGen** is a KiCad PCB Editor plugin that turns a finished board design
